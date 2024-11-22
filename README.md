@@ -76,7 +76,7 @@ The Pizza Sales Analysis project aims to analyze and visualize the sales data of
 After performing the SQL queries to extract and calculate the necessary data, the information was imported into Excel for further data cleaning, processing, and visualization.
 
 ## Dashboard
-![](Pizza_sales_dashboard.png)
+![image](https://github.com/user-attachments/assets/cc288367-5ec2-4058-9232-7fee349b32f9)
 
 ## Dashboard Insights
 ### Key Metrics
