@@ -39,6 +39,7 @@ The Pizza Sales Analysis project aims to analyze and visualize the sales data of
 ### Charts and Visualizations Requirements
 ##Daily Trend for Total Orders**
 ![image](https://github.com/user-attachments/assets/1eb11703-fec5-4e98-bd0d-ccfc70e70b3d)
+![image](https://github.com/user-attachments/assets/188f7ef0-590c-419f-af42-e6b1fdb7be8b)
 
 
 ##Hourly Trend**
