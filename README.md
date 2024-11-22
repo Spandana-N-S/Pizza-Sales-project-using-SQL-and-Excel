@@ -18,6 +18,7 @@ The Pizza Sales Analysis project aims to analyze and visualize the sales data of
 
 **Average Order Value**
 ![image](https://github.com/user-attachments/assets/3445bd4b-f028-42ea-abe6-9e1cc0be0a4f)
+![image](https://github.com/user-attachments/assets/0e404c9f-1fd6-4b4d-8a15-95d4da810470)
 
 
 **Total Pizzas Sold**
