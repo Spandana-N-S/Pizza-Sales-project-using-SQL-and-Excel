@@ -94,3 +94,8 @@ After performing the SQL queries to extract and calculate the necessary data, th
 
 ## Conclusion
 The Pizza Sales Analysis project effectively visualizes the sales data, providing clear insights into trends, top-selling products, and peak sales times. These insights can help in making strategic business decisions, such as optimizing inventory, improving marketing strategies, and enhancing customer satisfaction.
+
+##Real world relevance
+-  it is helpful for everyone in terms of boost sales, save money, and amking smart decisions
+-  it is used specifically for management, marketing, and operations.
+
