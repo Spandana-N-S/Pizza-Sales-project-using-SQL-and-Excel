@@ -43,8 +43,7 @@ The Pizza Sales Analysis project aims to analyze and visualize the sales data of
 ![](Daily_Trend.png)
 
 **Hourly Trend**
-![](Hourly_Trend_query.png)
-
+![image](https://github.com/user-attachments/assets/75f8d32f-2e8b-4a63-bee0-e718e4023d30)
 ![image](https://github.com/user-attachments/assets/ad78ff1c-af6a-4aff-887b-24ab6d7b4355)
 
 
@@ -54,17 +53,14 @@ The Pizza Sales Analysis project aims to analyze and visualize the sales data of
 
 **Total Pizzas Sold by Pizza Category**
 ![image](https://github.com/user-attachments/assets/e647d3e8-4dcb-4a18-81ef-e9040c25ec2e)
-
 ![image](https://github.com/user-attachments/assets/f47e57f0-9953-40d8-8716-c7e28c5461a9)
 
 **Top 5 Best Sellers by Total Pizzas Sold**
 ![image](https://github.com/user-attachments/assets/179d5e66-995a-4d3a-b585-320cea84957f)
-
 ![image](https://github.com/user-attachments/assets/c2f40dd0-d3f7-4ab0-9c09-e1bb2dc748d8)
 
 **Bottom 5 Worst Sellers by Total Pizzas Sold**
 ![image](https://github.com/user-attachments/assets/90b4d0f3-e306-48dc-8be7-5928bbda0ffd)
-
 ![image](https://github.com/user-attachments/assets/36825377-4a7e-4068-9c89-b378c33088e7)
 
 ### Data Cleaning and Visualization in Excel
