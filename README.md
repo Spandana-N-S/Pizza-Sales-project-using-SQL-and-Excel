@@ -48,17 +48,13 @@ The Pizza Sales Analysis project aims to analyze and visualize the sales data of
 ![](Hourly_Trend.png)
 
 **% of Sales by Pizza Category**
-![](%_sales_by_category_query.png)
-
-![](%_sales_by_category.png)
 
 **% of Sales by Pizza Size**
-![](%_of_Sales_By_Size_query.png)
-
-![](%_of_Sales_By_Size.png)
 
 **Total Pizzas Sold by Pizza Category**
 ![image](https://github.com/user-attachments/assets/e647d3e8-4dcb-4a18-81ef-e9040c25ec2e)
+
+![image](https://github.com/user-attachments/assets/f47e57f0-9953-40d8-8716-c7e28c5461a9)
 
 
 **Top 5 Best Sellers by Total Pizzas Sold**
