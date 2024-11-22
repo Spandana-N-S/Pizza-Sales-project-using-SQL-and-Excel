@@ -65,7 +65,7 @@ The Pizza Sales Analysis project aims to analyze and visualize the sales data of
 **Top 5 Best Sellers by Total Pizzas Sold**
 ![image](https://github.com/user-attachments/assets/179d5e66-995a-4d3a-b585-320cea84957f)
 
-![](Top_5_Best_Seller.png)
+![image](https://github.com/user-attachments/assets/c2f40dd0-d3f7-4ab0-9c09-e1bb2dc748d8)
 
 **Bottom 5 Worst Sellers by Total Pizzas Sold**
 ![image](https://github.com/user-attachments/assets/90b4d0f3-e306-48dc-8be7-5928bbda0ffd)
