@@ -12,6 +12,7 @@ The Pizza Sales Analysis project aims to analyze and visualize the sales data of
 
 ### Key Performance Indicators (KPIs)
 **Total Revenue**
+![image](https://github.com/user-attachments/assets/972b6341-ca04-49ea-9f97-e497f270edda)
 
 ![image](https://github.com/user-attachments/assets/fbb8c8d0-27ea-47d8-9a3f-5d6e990a3880)
 
