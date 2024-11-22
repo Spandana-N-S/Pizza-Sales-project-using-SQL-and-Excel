@@ -18,6 +18,7 @@ The Pizza Sales Analysis project aims to analyze and visualize the sales data of
 
 **Average Order Value**
 ![image](https://github.com/user-attachments/assets/3445bd4b-f028-42ea-abe6-9e1cc0be0a4f)
+
 ![image](https://github.com/user-attachments/assets/0e404c9f-1fd6-4b4d-8a15-95d4da810470)
 
 
@@ -26,22 +27,26 @@ The Pizza Sales Analysis project aims to analyze and visualize the sales data of
 
 **Total Orders**
 ![image](https://github.com/user-attachments/assets/7998ff38-b171-47cd-b024-2ef4fddfd609)
+
 ![image](https://github.com/user-attachments/assets/d28d81b0-8a71-4fc6-8359-f9146000f113)
 
 
 **Average Pizzas Per Order**
 ![image](https://github.com/user-attachments/assets/da0d029a-2bff-4855-aa18-1a82efffda20)
+
 ![image](https://github.com/user-attachments/assets/77554489-effd-4ea7-a49d-3c656d9d5382)
 
 
 ### Charts and Visualizations Requirements
 ##Daily Trend for Total Orders**
 ![image](https://github.com/user-attachments/assets/1eb11703-fec5-4e98-bd0d-ccfc70e70b3d)
+
 ![image](https://github.com/user-attachments/assets/188f7ef0-590c-419f-af42-e6b1fdb7be8b)
 
 
 ##Hourly Trend**
 ![image](https://github.com/user-attachments/assets/75f8d32f-2e8b-4a63-bee0-e718e4023d30)
+
 ![image](https://github.com/user-attachments/assets/ad78ff1c-af6a-4aff-887b-24ab6d7b4355)
 
 
@@ -51,14 +56,17 @@ The Pizza Sales Analysis project aims to analyze and visualize the sales data of
 
 ##Total Pizzas Sold by Pizza Category**
 ![image](https://github.com/user-attachments/assets/e647d3e8-4dcb-4a18-81ef-e9040c25ec2e)
+
 ![image](https://github.com/user-attachments/assets/f47e57f0-9953-40d8-8716-c7e28c5461a9)
 
 ##Top 5 Best Sellers by Total Pizzas Sold**
 ![image](https://github.com/user-attachments/assets/179d5e66-995a-4d3a-b585-320cea84957f)
+
 ![image](https://github.com/user-attachments/assets/c2f40dd0-d3f7-4ab0-9c09-e1bb2dc748d8)
 
 ##Bottom 5 Worst Sellers by Total Pizzas Sold**
 ![image](https://github.com/user-attachments/assets/90b4d0f3-e306-48dc-8be7-5928bbda0ffd)
+
 ![image](https://github.com/user-attachments/assets/36825377-4a7e-4068-9c89-b378c33088e7)
 
 ### Data Cleaning and Visualization in Excel
